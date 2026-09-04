@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name | Data Scientist"
+title                    : "Numa Vhora | Data Scientist"
 title_separator          : "|"
 name                     : &name "Numa Vhora"
 description              : &description "Data Scientist specializing in machine learning, statistical modeling, Bayesian analysis, and data analytics."
@@ -13,7 +13,7 @@ repository               : "nvhora24/nvhora24.github.io"
 # Site Author
 author:
   avatar           : "profile.png"
-  name             : "Your Name"
+  name             : "Numa Vhora"
   pronouns         :
   bio              : "Data Scientist | Machine Learning | Statistical Modeling | Data Analytics"
   location         : "United States"
